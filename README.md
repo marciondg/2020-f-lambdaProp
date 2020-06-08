@@ -1,3 +1,4 @@
-# Proyecto vacío
+# Practica Parcial Funcional
 
-Este repo fue creado para tener un nuevo proyecto Stack ya configurado.
+Enunciado:
+https://docs.google.com/document/d/1Gc-ot4AStIaGePl-q2V1KJBhpiXL0ye6pWvLki4vWZg/edit
